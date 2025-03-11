@@ -1,4 +1,4 @@
-# Hi there, I'm Ziko 👋
+# Hi there, I'm Zakaria 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ZikoDz23&color=blue)
 
@@ -8,9 +8,9 @@ I'm a passionate developer with a love for coding and learning new technologies.
 
 - 🔭 I’m currently working on Optimization of queries based on reinforcement learning RL
 - 🌱 I’m currently learning Deep Q-Network
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on DQN Projects
 - 💬 Ask me about ...
-- 📫 How to reach me: [Your email](mailto:ahmedzakaria.namane@gmail.com)
+- 📫 How to reach me: [My Email](mailto:ahmedzakaria.namane@gmail.com)
 
 ## GitHub Stats
 ![Ziko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZikoDz23&show_icons=true&theme=radical)
@@ -26,8 +26,8 @@ I'm a passionate developer with a love for coding and learning new technologies.
 
 ## Projects
 
-### Project 1
+### GlobeTerra
 Description of project 1
 
-### Project 2
+### Optimization of queries based on reinforcement learning RL
 Description of project 2
